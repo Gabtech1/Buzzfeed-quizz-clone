@@ -1,0 +1,61 @@
+{
+  "title":"Descubra seu perfil para jogos",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é o seu estilo de jogo preferido?",
+      "options":[
+        {"id": 1, "name":"Ação frenética e combate intenso", "alias":"A"},
+        {"id": 2, "name":"Exploração e mundo aberto", "alias":"B"},
+        {"id": 3, "name":"Estratégia e tomada de decisões", "alias":"C"},
+        {"id": 4, "name":"Narrativa envolvente e personagens cativantes", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que você mais valoriza em um jogo?",
+      "options":[
+        {"id": 1, "name":"Gameplay desafiador e mecânicas complexas", "alias":"A"},
+        {"id": 2, "name":"Liberdade de exploração e descoberta", "alias":"B"},
+        {"id": 3, "name":"Planejamento estratégico e táticas avançadas", "alias":"C"},
+        {"id": 4, "name":"História imersiva e personagens bem desenvolvidos", "alias":"D"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual é a sua preferência em termos de desafio?",
+      "options":[
+        {"id": 1, "name":"Desafios intensos e dificuldade elevada", "alias":"A"},
+        {"id": 2, "name":"Desafios variados e missões secundárias", "alias":"B"},
+        {"id": 3, "name":"Desafios que exigem planejamento e estratégia", "alias":"C"},
+        {"id": 4, "name":"Desafios que envolvem resolver quebra-cabeças e enigmas", "alias":"D"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual é o seu gênero temático preferido?",
+      "options":[
+        {"id": 1, "name":"Jogos de tiro em primeira pessoa", "alias":"A"},
+        {"id": 2, "name":"Jogos de mundo aberto e aventura", "alias":"B"},
+        {"id": 3, "name":"Jogos de estratégia em tempo real", "alias":"C"},
+        {"id": 4, "name":"Jogos de RPG e narrativa", "alias":"D"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual é o seu lema de jogador?",
+      "options":[
+        {"id": 1, "name":"A habilidade e a precisão são essenciais", "alias":"A"},
+        {"id": 2, "name":"A exploração é a chave para novas descobertas", "alias":"B"},
+        {"id": 3, "name":"A estratégia é fundamental para a vitória", "alias":"C"},
+        {"id": 4, "name":"A imersão na história é o que realmente importa", "alias":"D"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Seu gênero de jogo preferido é o de Ação! Você gosta de desafios intensos, combates frenéticos e mecânicas de jogo complexas.",
+    "B": "Seu gênero de jogo preferido é o de Mundo Aberto! Você valoriza a liberdade de exploração, a descoberta de novos lugares e a diversidade de atividades.",
+    "C": "Seu gênero de jogo preferido é o de Estratégia! Você aprecia jogos que exigem planejamento estratégico, tomada de decisões táticas e a construção de estruturas complexas.",
+    "D": "Seu gênero de jogo preferido é o de RPG! Você se envolve com jogos que oferecem uma narrativa imersiva, personagens cativantes e a possibilidade de moldar o destino do protagonista."
+  }
+}
