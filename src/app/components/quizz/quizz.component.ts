@@ -65,3 +65,4 @@ export class QuizzComponent implements OnInit {
     return result
   }
 }
+
